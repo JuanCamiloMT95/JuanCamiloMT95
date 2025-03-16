@@ -16,7 +16,8 @@ $$H_1:$$
 - Regresiones:
 ---
 ### En Optimización  
---
+<hr style="border: 0.5px solid gray;">  
+
 $$Max z = c \cdot x$$
 $$s.a.$$
 $$Ax<=b$$
