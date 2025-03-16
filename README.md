@@ -9,11 +9,14 @@ De Base profesional soy *Ingeniero Industrial*, por lo tanto, de forma académic
 ## Aplicaciones  
 ---
 ### En Probabilidad, Estadística y Machine Learning  
-$$H_0$$
-$$H_1$$  
+---
+$$H_0:$$
+$$H_1:$$  
 - Pruebas de hipótesis
 - Regresiones:
+---
 ### En Optimización  
+---
 $$Max z=c \cdot x$$
 $$s.a.$$
 $$Ax<=b$$
