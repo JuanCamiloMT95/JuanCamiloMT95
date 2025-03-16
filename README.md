@@ -12,7 +12,15 @@ De Base profesional soy *Ingeniero Industrial*, por lo tanto, de forma académic
 $$H_0$$
 $$H_1$$  
 - Pruebas de hipótesis
-- Regresiones: 
+- Regresiones:
+### En Optimización  
+$$Max z=c \cdot x$$
+$$s.a.$$
+$$Ax<=b$$
+$$x>=0$$  
+- Ruteo de transporte
+- Scheduling (programción de la producción)
+- 
 
 <!--
 **JuanCamiloMT95/JuanCamiloMT95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
