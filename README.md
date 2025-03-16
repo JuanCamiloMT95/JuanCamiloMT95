@@ -1,4 +1,5 @@
-# ![Proceso Estocástico](https://github.com/JuanCamiloMT95/JuanCamiloMT95/blob/main/cropped-cropped-bm2.png) Hi there 👋
+# <h1 align="center">Hola 👋, tengo gusto por la Optimización, Probabilidad y Estadística</h1>
+![Proceso Estocástico](https://github.com/JuanCamiloMT95/JuanCamiloMT95/blob/main/cropped-cropped-bm2.png)
 
 De Base profesional soy Ingeniero Industrial, por lo tanto, de forma académica como laboralmente conozco las áreas funcionales y operativas dentro de la organización. También tengo experiencia en formulación, evaluación y gestión de proyectos. Sin embargo, actualmente soy candidato a magister en Investigación de Operaciones y Estadística, mi interés en la toma de decisiones basadas en datos e informadas me posibilitan realizar procesos de ciencia de datos, análisis de datos / inteligencia de negocio. A través de lenguajes de programación generar modelos y algoritmos de series de tiempo y otros procesos estocásticos para realizar pronósticos, pruebas de hipótesis, diseño de experimentos, clustering, regresiones; en optimización empleo modelos lineales y multiobjetivo con solución de algoritmos exactos y aproximados como heurísticas y metaheurísticas. También, la capacidad de generar herramientas de visualización como dashboard y automatización de reportes.
 
