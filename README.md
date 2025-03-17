@@ -18,7 +18,7 @@ $$H_1:$$
 ### En Optimización  
 <hr style="border: 0.01px solid gray;">  
 
-$$Max z = c \cdot x$$
+$$Max{ }z = c \cdot x$$
 $$s.a.$$
 $$Ax<=b$$
 $$x>=0$$  
