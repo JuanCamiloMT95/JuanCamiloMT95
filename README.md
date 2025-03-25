@@ -10,7 +10,7 @@ De Base profesional soy *Ingeniero Industrial*, por lo tanto, de forma académic
 ---
 ### En Probabilidad, Estadística y Machine Learning  
 ---
-$$f(x)=\frac{1}{\sigma\sqrt{2\pi}}e^\frac-{1}{2} \left(\frac{x - \mu}{\sigma}\right)^2 $$
+$$f(x)=\frac{1}{\sigma\sqrt{2\pi}}e^{\frac-{1}{2} \left(\frac{x - \mu}{\sigma}\right)^2} $$
 $$H_0:$$
 $$H_1:$$  
 - Pruebas de hipótesis
