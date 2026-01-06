@@ -1,4 +1,4 @@
-# <h1 align="center">⚙️📈📊📉 Optimización y Ciencia de Datos para la Toma de Decisiones Informadas Dentro de las Organizaciones</h1>
+# <h1 align="center">⚙️📊📉📈 Optimización y Ciencia de Datos para la Toma de Decisiones Informadas Dentro de las Organizaciones</h1>
 ![Proceso Estocástico](https://github.com/JuanCamiloMT95/JuanCamiloMT95/blob/main/cropped-cropped-bm2.png)  
 
 *Nota:* imagen tomada de Seminario Movimiento Browniano, Martingalas y Cálculo Estocástico ([ver](https://seminarioce.wordpress.com/inicio/)).  
