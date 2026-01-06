@@ -1,9 +1,18 @@
-# <h1 align="center">¡Hola 👋!, tengo gusto por la Optimización, Probabilidad y Estadística</h1>
+# <h1 align="center">⚙️📈📊📉 Optimización y Ciencia de Datos para la Toma de Decisiones Informadas Dentro de las Organizaciones</h1>
 ![Proceso Estocástico](https://github.com/JuanCamiloMT95/JuanCamiloMT95/blob/main/cropped-cropped-bm2.png)  
 
 *Nota:* imagen tomada de Seminario Movimiento Browniano, Martingalas y Cálculo Estocástico ([ver](https://seminarioce.wordpress.com/inicio/)).  
 
-De Base profesional soy *Ingeniero Industrial*, por lo tanto, de forma académica como laboralmente conozco las áreas funcionales y operativas dentro de la organización. También tengo experiencia en formulación, evaluación y gestión de proyectos. Sin embargo, actualmente soy candidato a magister en *Investigación de Operaciones y Estadística*, mi interés en la toma de decisiones basadas en datos e informadas me posibilitan realizar procesos de ciencia de datos, análisis de datos / inteligencia de negocio dentro de las organizaciones. A través de lenguajes de programación generar modelos y algoritmos de series de tiempo y otros procesos estocásticos para realizar pronósticos, pruebas de hipótesis, diseño de experimentos, clustering, regresiones; en optimización empleo modelos lineales y multiobjetivo con solución de algoritmos exactos y aproximados como heurísticas y metaheurísticas. También, la capacidad de generar herramientas de visualización como dashboard y automatización de reportes.  
+Mi formación como Ingeniero Industrial me otorga una comprensión holística de las áreas funcionales y operativas de una organización. He capitalizado esta experiencia en la gestión y evaluación de proyectos, y ahora la combino con mi especialización en análisis avanzado.
+
+Actualmente, como candidato a magister en Investigación de Operaciones y Estadística, me enfoco en la toma de decisiones basada en datos. Mi expertise abarca:
+
+- **Ciencia y Análisis de Datos:** implementación de procesos de data science e inteligencia de negocio (BI).
+- **Modelado Avanzado:** desarrollo e implementación de modelos y algoritmos como series de tiempo, procesos estocásticos, clustering, regresiones, simulación de Montecarlo, utilizando lenguajes de programación R y Python.
+- **Optimización:** desarrollo y aplicación de modelos lineales y multiobjetivo, resueltos con algoritmos exactos y heurísticas/metaheurísticas.
+- **Visualización y Automatización:** creación de dashboards y automatización de reportes para una comunicación de resultados clara y eficiente.
+
+Hablemos sobre cómo mi enfoque analítico y mi experiencia en el conocimiento del negocio pueden generar eficiencias y aportar valor a los desafíos operativos y estratégicos de tu empresa. También, conecta conmigo para explorar posibles colaboraciones en intereses comunes e investigaciones conjuntas.
 
 ---
 ## Aplicaciones  
